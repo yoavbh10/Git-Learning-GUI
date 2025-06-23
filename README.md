@@ -29,6 +29,8 @@ python main.py
 
 ## 📸 Preview
 
+![image](https://github.com/user-attachments/assets/630498ed-2ae8-4fa8-a055-e31c9d6a3480)
+
 ## 💡 Use Cases
 
 Teaching Git concepts visually
